@@ -1,4 +1,5 @@
-Customer Spending Analysis: Impact of Engagement Metrics
+Customer Spending Analysis: Impact of Engagement Metrics:
+
 In this project, I analyzed a Kaggle dataset to explore how key customer engagement metrics—Average Session Length, Time on App, Time on Website, and Length of Membership—affect the Yearly Amount Spent by customers.
 
 Key Insights:
